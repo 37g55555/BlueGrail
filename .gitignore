@@ -1,0 +1,29 @@
+# RPG Maker MV - local save data
+/save/
+/save/*
+
+# Deployment / exported builds
+/www/
+/deploy/
+/build/
+/dist/
+
+# NW.js / Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.bak
+*.swp
+.vscode/
+.idea/
+
+# Logs
+*.log
